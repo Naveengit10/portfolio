@@ -1,0 +1,161 @@
+@media (min-width:577px) and (max-width:992px){
+    #home1 h2{
+        font-size: 40px;
+    }
+    #home1 h3{
+        font-size: 40px;
+        margin-top: 30px;
+    }
+    #home1 button{
+        font-size: 14px;
+        font-weight: 600;
+        padding: 15px 40px;
+        border-radius: 5px;
+        border: none;
+        background-color: #5956e9;
+        text-align: center;
+        color: white;
+        margin:30px  auto;
+        margin-bottom: 20px;
+    
+    }
+    #home1 a{
+        margin: 30px auto;
+    }
+    #home1 br{
+        display: none;
+    }
+
+    #shape-img{
+        padding-bottom: 20px;
+    }
+    .blubg{
+        height: 482px;
+        width: 482px;
+        top: -233px;
+        right: -221px;
+    }
+    #shape-img{
+        width: 130px;
+        height: 130px;
+        bottom: -64px;
+    }
+    .skill-main{
+        padding: 140px 15px;
+    }
+    #bucket-img{
+        width: 78px;
+        height: 78px;
+        left: 30px;
+    }
+    @keyframes bucket{
+        0%{
+            top: 50px;
+            left: 32px;
+        }
+        50%{
+            top: 80px;
+        }
+        100%{
+            top: 50px;
+            left: 32px;
+        }
+    
+}
+
+#spiral-img {
+    width: 75px;
+    height: 75px;
+    right: 25px;
+}
+.skill-main h1 {
+    font-size: 42px;
+}
+.port-con{
+    padding: 80px 0px;
+}
+
+.port-con h1{
+    font-size: 35px;
+}
+.port-con h1 span::after{
+    width: 150px;
+}
+.port-con h1 span{
+    margin-right: 5px;
+}
+#bulb{
+    width: 75px;
+    height: 75px;
+
+}
+@keyframes bulb{
+    0%{
+        bottom: 25px;
+        right: 20px;
+    }
+    50%{
+        bottom: 70px;
+        right: 20px;
+    }
+    100%{
+        bottom: 25px;
+        right: 20px;
+    }
+}
+.about-head {
+    padding: 60px 0px;
+}
+.circle{
+    height: 300px;
+    width: 300px;
+    left: 30%;
+    top:0px;
+}
+.abt-content{
+    padding: 0px 0px 0px 0px;
+}
+.education h3{
+    font-style: 22px;
+    text-align: center;
+}
+.contact-head div{
+    display: block;
+}
+.contact-head div h1{
+    display: inline;
+}
+.cont{
+    flex-wrap: wrap;
+}
+}
+
+
+@media (max-width:992px){
+    .section-1{
+        padding-top: 70px;
+    }
+}
+@media (max-width:405px){
+    .cont span{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

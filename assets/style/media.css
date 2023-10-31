@@ -1,0 +1,152 @@
+@media (max-width:576px){
+    #home1 h2{
+        font-size: 40px;
+    }
+    #home1 h3{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    #home1 button{
+        font-size: 14px;
+        font-weight: 600;
+        padding: 10px 30px;
+        border-radius: 5px;
+        border: none;
+        background-color: #5956e9;
+        text-align: center;
+        color: white;
+        margin:30px  auto;
+        margin-bottom: 20px;
+    
+    }
+    .skil-gallery img{
+        width: 60px;
+        height: 60px;
+    }
+    #home1 a{
+        margin: 30px auto;
+    }
+
+    #shape-img{
+        padding-bottom: 20px;
+    }
+    .blubg{
+        height: 482px;
+        width: 482px;
+        top: -233px;
+        right: -221px;
+    }
+    #shape-img{
+        width: 100px;
+        height: 100px;
+        bottom: -64px;
+    }
+    .skill-main{
+        padding: 140px 15px;
+    }
+    #bucket-img{
+        width: 50px;
+        height: 50px;
+        left: 30px;
+    }
+    @keyframes bucket{
+        0%{
+            top: 35px;
+            /* left: 0; */
+        }
+        50%{
+            top: 80px;
+        }
+        100%{
+            top: 35px;
+            /* left: 100px; */
+        }
+    
+}
+
+#spiral-img {
+    width: 50px;
+    height: 50px;
+    right: 25px;
+}
+.skill-main h1 {
+    font-size: 42px;
+}
+.port-con{
+    padding: 80px 0px;
+}
+
+.port-con h1{
+    font-size: 35px;
+}
+.port-con h1 span::after{
+    width: 150px;
+}
+.port-con h1 span{
+    margin-right: 5px;
+}
+#bulb{
+    width: 50px;
+    height: 50px;
+
+}
+@keyframes bulb{
+    0%{
+        bottom: 25px;
+        right: 20px;
+    }
+    50%{
+        bottom: 70px;
+        right: 20px;
+    }
+    100%{
+        bottom: 25px;
+        right: 20px;
+    }
+}
+.about-head {
+    padding: 60px 0px;
+}
+.circle{
+    height: 300px;
+    width: 300px;
+    left: 6%;
+    top:0px;
+}
+.abt-content{
+    padding: 0px 0px 0px 0px;
+}
+.education h3{
+    font-style: 22px;
+    text-align: center;
+}
+.contact-head div{
+    display: block;
+}
+.contact-head div h1{
+    display: inline;
+}
+.cont{
+    flex-wrap: wrap;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
